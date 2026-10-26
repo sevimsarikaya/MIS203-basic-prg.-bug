@@ -6,7 +6,7 @@ print("Below threshold:", amount < 500)
 print("Not below threshold:", amount >= 500)
 
 x = 10
-y = 20
+y = 10
 print("x is less than y:", x < y)
 print("x is greater than y:", x > y)
 
